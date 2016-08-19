@@ -1,0 +1,28 @@
+name: John McAlpine
+favicon: null
+layout_spectrum: 0.37376819807104766
+typography_spectrum: 0.009873074246570468
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.10286300117149949
+  lightness: 0.5594598583411425
+  saturation: 0.8801078954711556
+  rhythmicContrast: 0.29264127160422504
+purpose: []
